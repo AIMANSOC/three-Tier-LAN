@@ -3,6 +3,7 @@ Configuring a 3-Tier LAN Network Architecture using Packet Tracer
 Reference: Jeremy's IT Lab
 NOTE: I setup & configured the network from scratch based on Jeremy's video.
 ![3 tier lan](https://github.com/user-attachments/assets/4637fe84-f62b-4320-aab3-b2c6b9bcebf6)
+
 Part 1 – Initial Setup
 a. Configure hostnames for each router & switch
 b. Configure the console line to require login with a local user account. Set a 30-minute inactivity timeout. Enable synchronous logging.
